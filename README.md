@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="PREVIEW.gif" width="100%">
+  <img src="preview.gif" width="100%">
 </p>
