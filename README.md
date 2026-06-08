@@ -1,6 +1,6 @@
 # Aplikasi-Kasir
 <p align="center">
-  <img src="FOTO.jpg" alt="kompasWebclone" width="100%">
+  <img src="VIDEO.MP4" alt="bandicam 2026-06-08 18-56-18-349" width="100%">
 </p>
 
 
